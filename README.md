@@ -1,1 +1,1 @@
-Add OpenVINO Latency vs Throughput modes Docs page (#9001)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
