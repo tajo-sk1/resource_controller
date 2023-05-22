@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Update the heatmap module code + docs (#7045)
