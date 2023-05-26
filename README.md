@@ -1,1 +1,1 @@
-ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
