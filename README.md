@@ -1,1 +1,1 @@
-ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
+Hold failed upload metrics and upload with next upload metrics (#8513)
