@@ -1,1 +1,1 @@
-Fix docker.yaml double-quote version bug (#7452)
+Update pyproject.toml and Docs (#7274)
