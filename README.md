@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Fix TFLite INT8 for OBB (#7989)
