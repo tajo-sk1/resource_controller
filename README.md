@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Compare plt.get_backend() in lowercase (#8409)
