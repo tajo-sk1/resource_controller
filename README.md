@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
