@@ -1,1 +1,1 @@
-Update OpenVINO INT8 export (#7515)
+Move Explorer tests to scheduled CI (#8305)
