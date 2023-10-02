@@ -1,1 +1,1 @@
-Replacing Images for torchscript.md (#8596)
+Add C++ Classify inference example (#6868)
