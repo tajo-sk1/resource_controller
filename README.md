@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Replacing Images for torchscript.md (#8596)
