@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
