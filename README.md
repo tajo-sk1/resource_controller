@@ -1,1 +1,1 @@
-Add settings runs_dir == datasets_dir warning (#8653)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
