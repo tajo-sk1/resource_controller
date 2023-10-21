@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Explorer API video https://youtu.be/3VryynorQeo  (#7838)
