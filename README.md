@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
