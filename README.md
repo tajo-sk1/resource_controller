@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add OBB models to GITHUB_ASSET_NAMES (#7425)
