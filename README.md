@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+Fix TFLite INT8 for OBB (#7989)
