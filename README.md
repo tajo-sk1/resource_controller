@@ -1,1 +1,1 @@
-Add Amazon Sagemaker Docs integrations page (#7293)
+OpenVino 2024.0.0 (#8726)
