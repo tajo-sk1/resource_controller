@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
