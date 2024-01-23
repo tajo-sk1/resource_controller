@@ -1,1 +1,1 @@
-fix val each epoch
+Compress docs images (#8124)
