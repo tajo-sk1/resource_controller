@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
