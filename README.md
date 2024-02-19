@@ -1,1 +1,1 @@
-Fix undefined ‘im_array’ bug in predict.md (#8565)
+ultralytics 8.1.21 Add YOLOv8-World-v2 models (#8580)
