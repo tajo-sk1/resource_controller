@@ -1,1 +1,1 @@
-docs: update view-results-in-terminal.md (#66)
+YOLOv8 INT8 TFLite Inference Example (#7317)
