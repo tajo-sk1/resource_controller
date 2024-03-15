@@ -1,1 +1,1 @@
-Optimize TFJS export on ARM64 (#8946)
+Fix Multi-GPU resume bug (#7328)
