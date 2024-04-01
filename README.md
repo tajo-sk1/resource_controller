@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
