@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
