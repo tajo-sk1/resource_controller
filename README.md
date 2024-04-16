@@ -1,1 +1,1 @@
-Use pathlib in DOTA ops (#7552)
+ultralytics 8.1.32 fix CLIP backwards compatibility (#9253)
