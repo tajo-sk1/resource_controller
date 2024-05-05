@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
