@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
