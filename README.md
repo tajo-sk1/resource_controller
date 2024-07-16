@@ -1,1 +1,1 @@
-Auto-format by https://ultralytics.com/actions
+Add dota8.yaml and O tests (#7394)
