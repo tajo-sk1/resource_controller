@@ -1,1 +1,1 @@
-Add dota8.yaml and O tests (#7394)
+Retry once for Docker CI failures (#8164)
