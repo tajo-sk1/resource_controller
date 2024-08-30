@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
