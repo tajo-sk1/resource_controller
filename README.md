@@ -1,1 +1,1 @@
-Add https://youtu.be/96NkhsV-W1U to docs and heatmaps fix (#7944)
+ultralytics 8.1.9 replace .size(0) with .shape[0] (#7957)
