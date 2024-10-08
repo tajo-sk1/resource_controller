@@ -1,1 +1,1 @@
-fix non-coco val
+Update HTTP to HTTPS (#7548)
