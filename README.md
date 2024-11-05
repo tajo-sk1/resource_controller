@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Fix RTDETR generate anchor grid out of boundary (#7247)
